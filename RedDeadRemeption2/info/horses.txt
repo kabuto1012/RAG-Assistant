@@ -1,0 +1,76 @@
+TOPIC: Horse Recommendations
+SUBTOPIC: Top Mounts
+CONTENT: The best horses in Red Dead Redemption 2, chosen for overall performance, are:
+- **White Arabian** – Elite speed (5★) and handling (5★), free wild horse available from Chapter 2 near Lake Isabella. Ideal for racing and quick getaways.  
+- **Turkoman** – Excellent balance of speed (4★), stamina (4★), and calmness under fire. Purchase Gold or Dark Bay coats from Saint Denis Stable (Chapter 4+) or Silver coat in Epilogue. Great all-round war/racing mount.  
+- **Missouri Fox Trotter** – Outstanding stamina (5★) and high speed (4★); available as Amber Champagne from Scarlett Meadows Stable (Chapter 4+) or Silver Dapple in Epilogue. Perfect for long-distance travel and endurance runs.
+
+Hono­rable Mentions:
+- **Rose Grey Bay Arabian** – Matches White Arabian stats; purchasable in Epilogue from Blackwater Stable.  
+- **Andalusian** – Superior war horse with huge health (5★) and stamina (4★); wild spawn at Brandywine Drop, Roanoke Ridge.  
+- **Dutch Warmblood** – Workhorse with calm temperament and large health core (5★); purchase Chocolate Roan from Scarlett Meadows Stable (Chapter 3+).
+---
+TOPIC: Horse
+SUBTOPIC: General Guide – Arabian
+CONTENT: The Arabian is one of the best horse breeds in the game, known for its elite handling and excellent speed and acceleration. It is considered a "Superior" class horse. However, they can be more skittish than war horses. Different coats can be found in the wild or purchased from stables.
+ACQUISITION_METHODS: 
+- A wild White Arabian can be found and tamed near Lake Isabella from Chapter 2 onwards. 
+- The Black coat can be purchased from the Saint Denis Stable starting in Chapter 4. 
+- The Rose Grey Bay coat can be purchased from the Blackwater Stable in the Epilogue. 
+---
+TOPIC: Horse
+NAME: White Arabian
+COAT: White
+CATEGORY: Superior / Elite
+ACQUISITION: Can be found in the wild, roaming the western bank of Lake Isabella in the Grizzlies West region. It must be tracked and tamed.
+NOTES: Widely considered the best wild horse that can be acquired for free from Chapter 2 onwards. It has elite handling and excellent speed, but can be more skittish than war horses.
+---
+TOPIC: Horse
+NAME: Rose Grey Bay Arabian
+COAT: Rose Grey Bay
+CATEGORY: Superior / Elite
+ACQUISITION: Can be purchased from the Blackwater Stable during and after the Epilogue.
+NOTES: Statistically one of the best all-around horses in the game, with maximum Health and Stamina when fully bonded.
+---
+TOPIC: Horse
+NAME: Black Arabian
+COAT: Black
+CATEGORY: Superior / Elite
+ACQUISITION: Can be purchased from the Saint Denis Stable after the start of Chapter 4.
+NOTES: An elite horse with fantastic speed and acceleration, available for purchase mid-game.
+---
+TOPIC: Horse
+NAME: Missouri Fox Trotter
+COAT: Amber Champagne / Silver Dapple Pinto
+CATEGORY: Superior / Racing / Work
+ACQUISITION: The Amber Champagne coat can be purchased from the Scarlett Meadows Stable from Chapter 4. The Silver Dapple Pinto can be purchased from the Blackwater Stable during the Epilogue.
+NOTES: One of the fastest horse breeds in the game, making it ideal for long-distance travel and racing. It also has good health and stamina.
+---
+TOPIC: Horse
+NAME: Turkoman
+COAT: Gold / Dark Bay / Silver
+CATEGORY: Superior / War / Race
+ACQUISITION: Different coats can be purchased from the Saint Denis, Blackwater, and Tumbleweed stables in later chapters and the Epilogue.
+NOTES: An excellent and brave horse that combines the best traits of War and Race breeds. It has great speed, health, and is less likely to get spooked by predators or gunfire.
+---
+TOPIC: Horse
+NAME: Andalusian
+COAT: Perlino
+CATEGORY: War
+ACQUISITION: Can be found in the wild at Brandywine Drop in the Roanoke Ridge region of New Hanover, near the waterfall.
+NOTES: A unique and powerful wild war horse with excellent health and stamina. A fantastic free alternative to the Turkoman.
+---
+TOPIC: Horse
+NAME: Dutch Warmblood
+COAT: Chocolate Roan
+CATEGORY: Work
+ACQUISITION: Can be purchased from the Scarlett Meadows Stable from Chapter 3.
+NOTES: A reliable and sturdy work horse with a calm temperament and a large health pool, making it dependable in stressful situations.
+---
+TOPIC: Horse
+NAME: Mustang
+COAT: Tiger Striped Bay
+CATEGORY: War / Work
+ACQUISITION: Can be found in the wild in the Rio Del Lobo Rock area of New Austin during the Epilogue.
+NOTES: A unique wild horse with excellent health and stamina, known for its bravery.
+---

@@ -1,0 +1,787 @@
+CHAPTER: 1
+MISSION_TITLE: Outlaws from the West
+OBJECTIVES:
+1. Follow Dutch and Micah to the Adler homestead.
+2. Take cover behind the cattle shed.
+3. When the O'Driscolls attack, win the shootout.
+4. Search the main cabin for supplies.
+5. Go to the barn to continue searching.
+6. Win the brawl against the O'Driscoll who ambushes you.
+7. Interrogate the O'Driscoll for information.
+8. Decide whether to kill or spare him.
+9. Calm the horse in the barn.
+10. Lead the horse to the hitching post outside.
+11. Investigate the commotion in the house and rescue Sadie Adler.
+12. Return to the camp at Colter.
+GOLD_MEDAL_OBJECTIVES:
+- Take no damage during the shootout.
+- Loot 6 or more items from Adler Ranch.
+- Complete with at least 80% accuracy.
+FAILURE_CONDITIONS:
+- Aggravates, assaults, kills or abandons Dutch or Micah.
+- Allows Dutch or Micah to be killed.
+- Abandons the homestead.
+- Assaults, kills or abandons your horse.
+- Assaults, kills or abandons the horse in the barn.
+- Dies.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- This mission automatically continues into "Enter, Pursued by a Memory."
+- Javier Escuella only appears briefly at the very beginning of the mission.
+- Hosea's dialogue establishes the in-game month as May, 1899.
+- During the opening credits, Micah's icon is visible with the caravan, even though he was sent ahead.
+- The opening scene takes place in an area outside the normal map boundaries.
+- Dutch's speech in the opening is repeated with variations at Horseshoe Overlook.
+- A marker for Davey's corpse is on the minimap, but he cannot be seen without glitches.
+- It was previously possible to glitch into the cabin to see Davey's corpse.
+- If Arthur takes cover in the wrong spot, Dutch will comment on it.
+- If Arthur doesn't shoot first, Micah will protect Dutch.
+- Sparing the O'Driscoll in the barn will cause him to reappear in the mission "Old Friends."
+- The compendium is temporarily available during this mission.
+- This is the only mission where Charles' horse, Taima, is rideable.
+- The mission's opening may be inspired by the film Reservoir Dogs.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Intro & Mission #1 - Outlaws from the West [Replay - Gold Medal]: http://www.youtube.com/watch?v=sbmDIu31N58
+---
+CHAPTER: 1
+MISSION_TITLE: Enter, Pursued by a Memory
+OBJECTIVES:
+1. Ride with Javier to search for John.
+2. After finding John's horse, follow Javier on foot up the mountain path.
+3. Find the injured John and carry him back down to the horses.
+4. Kill the three wolves that attack when you reach the horses.
+5. Get on your horse and kill the second pack of wolves while riding.
+6. Ride back to the camp at Colter to complete the mission.
+GOLD_MEDAL_OBJECTIVES:
+- Kill all the wolves without taking any damage.
+- Complete with at least 80% accuracy.
+FAILURE_CONDITIONS:
+- Assaults, kills, or abandons Javier or John.
+- Allows Javier or John to be killed.
+- Kills or abandons your horse.
+- Doesn't have a Sawed-off Shotgun (during replay).
+- Dies.
+TIPS:
+- This mission is difficult to get a gold medal on due to a long, unskippable 10-minute ride at the start of every retry.
+- The first three wolves attack at close range, making it hard to avoid damage with the Sawed-off Shotgun's two-shot capacity.
+- During the replay, you must have the Sawed-off Shotgun in your loadout, otherwise the mission cannot be completed.
+- It is possible to kill some wolves by trampling them with your horse to save ammo and avoid taking damage.
+- If you don't protect Javier and John from the wolves, a unique death scene will occur.
+TRIVIA:
+- Javier's line "I know if the situation were reversed... he'd look for me" foreshadows John's hunt for Javier in the first Red Dead Redemption.
+- After this mission, the player can walk around the camp.
+- If you don't eat provisions when your stamina core depletes, Javier will give you Kentucky Bourbon.
+- The area on the mountain where the mission takes place becomes inaccessible due to an avalanche afterward.
+- The iconic scars on John's face are from the wolf attack before this mission.
+- The mission title is a reference to a famous stage direction ("Exit, pursued by a bear") from Shakespeare's play, The Winter's Tale.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #2 - Enter, Pursued by a Memory [Replay & Gold Medal]: http://www.youtube.com/watch?v=olhcjYtFxmg
+---
+CHAPTER: 1
+MISSION_TITLE: The Aftermath of Genesis
+OBJECTIVES:
+1. Ride with Charles to the hunting grounds.
+2. When prompted, get the bow from your horse.
+3. Follow Charles stealthily along the deer trail.
+4. Kill the first deer with your bow.
+5. Track and kill a second deer.
+6. Pick up one of the deer carcasses and stow it on your horse.
+7. On the way back, avoid the bear.
+8. Return to camp, bring the deer to Pearson's station, and skin it.
+GOLD_MEDAL_OBJECTIVES:
+- Kill each deer with one arrow.
+- Do not spook either deer.
+- Get a clean kill on the second deer.
+FAILURE_CONDITIONS:
+- Assaults, kills, or abandons Charles.
+- Allows Charles to be killed.
+- Lets the deer escape.
+- Ruins the deer carcasses (such as by shooting them).
+- Kills or abandons your horse.
+- Dies.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- This mission unlocks the Eagle Eye ability.
+- Charles mentions burning his right hand, a possible reference to Red Harlow from Red Dead Revolver.
+- Your honor can decrease if you wound a deer and let it bleed out instead of performing a mercy kill.
+- Using a weapon other than the bow will not fail the mission, but it will upset Charles.
+- A rare glitch can cause Charles' AI to freeze if you take too long to get the bow from your horse.
+- It is impossible to kill the bear during this mission; shooting at it will only frustrate Charles.
+- Dialogue in this mission changes depending on whether it is completed before or after "Old Friends."
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #4 - The Aftermath of Genesis [Replay & Gold Medal]: http://www.youtube.com/watch?v=BDhnPn5CBdA
+---
+CHAPTER: 1
+MISSION_TITLE: Who the Hell is Leviticus Cornwall?
+OBJECTIVES:
+1. Help Bill Williamson plant the dynamite on the train tracks.
+2. When the detonator fails, get on your horse and chase the train.
+3. Ride alongside the train and jump aboard when prompted.
+4. Fight your way through the train cars to the engine at the front.
+5. Stop the train.
+6. Get off the train and eliminate the remaining train guards in a shootout.
+7. Place dynamite on the locked, armored train car to blow it open.
+8. Go inside the car, search the safes, and find the bonds.
+9. Decide whether to kill or spare the train employees for an honor change.
+GOLD_MEDAL_OBJECTIVES:
+- Save Lenny when he is hanging from the train.
+- After stopping the train, take out the guards within 1 minute and 30 seconds.
+- Take no damage during the shootout.
+- Get 10 headshots.
+- Complete the mission without taking any health items.
+FAILURE_CONDITIONS:
+- Assaults, kills, or abandons any member of the gang.
+- Allows any member of the gang to be killed.
+- Fails to board the train.
+- Fails to save Lenny from falling off the train.
+- Abandons the train.
+- Kills or abandons their horse.
+- Dies.
+TIPS:
+- The "take no damage" objective only applies to the shootout after the train has stopped.
+- You can kill the three train workers for easy headshots, though it will result in a loss of honor.
+TRIVIA:
+- Hosea's line, "I just don't want any more folks to die, Dutch," is remembered by Arthur in a later mission if his Honor is high.
+- The mission is similar to a scene in the film Butch Cassidy and the Sundance Kid.
+- During the shootout after stopping the train, Micah can be seen using a Carbine Repeater, a rare sight.
+- Bill and Charles can be seen firing their Double-barreled Shotguns more than two times without reloading, likely an oversight.
+- If you neglect to help Lenny up onto the train, he will eventually pull himself up at the cost of some honor.
+- This mission automatically continues into "Eastward Bound."
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #5 - Who the Hell is Leviticus Cornwall? [Replay & Gold Medal]: http://www.youtube.com/watch?v=mP0eG6GrY3Y
+---
+CHAPTER: 1
+MISSION_TITLE: Eastward Bound
+OBJECTIVES:
+1. Get on the wagon with Hosea to leave the camp.
+2. Drive the wagon along the path with the rest of the convoy.
+3. After the wheel breaks, help Charles and Hosea put it back on.
+4. Continue driving the wagon the rest of the way to the new camp at Horseshoe Overlook.
+GOLD_MEDAL_OBJECTIVES:
+- Pick up Javier when entering Horseshoe Overlook.
+- Complete within 6 minutes.
+FAILURE_CONDITIONS:
+- Assaults, kills, or abandons Hosea, Charles (and Javier if picked up).
+- Diverts off the route to Horseshoe Overlook.
+- Destroys or abandons the wagon.
+- Dies.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- After this mission, the availability of many gang members changes, with several leaving camp temporarily until later missions.
+- To start the next story mission, "Polite Society, Valentine Style," the player must approach and disturb Uncle.
+- The mission's name may be a reference to the song "Homeward Bound" by Simon & Garfunkel.
+- Arthur makes a two-page journal entry after this mission is complete.
+- A cosmetic glitch allows players to obtain either a unique winter coat (on patch 1.00) or Arthur without suspenders (on the latest patch).
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #6 - Eastward Bound [Replay & Gold Medal]: http://www.youtube.com/watch?v=d24KGBgkCH0
+---
+CHAPTER: 2
+MISSION_TITLE: Polite Society, Valentine Style
+OBJECTIVES:
+1. Wake up Uncle and get in the wagon.
+2. Allow Karen, Tilly, and Mary-Beth to join and ride to Valentine.
+3. Optionally, help the man on the side of the road retrieve his lost horse for an honor boost.
+4. Arrive in Valentine and go to the general store with Uncle.
+5. After the cutscene, find Tilly being harassed across the street and intervene.
+6. Go to the Saints Hotel to find Karen.
+7. Confront the man in the hotel room with Karen.
+8. After meeting the group outside, chase the man from Blackwater who recognizes you.
+9. After he falls, decide to either save Jimmy Brooks (gaining honor and a unique pen) or let him fall to his death (losing honor).
+10. Optionally, return the horse you borrowed to its owner in Valentine for an honor boost.
+GOLD_MEDAL_OBJECTIVES:
+- Return the lost wagon horse to its owner.
+- Find Karen within 45 seconds.
+FAILURE_CONDITIONS:
+- Assaults, kills, or abandons Uncle, Mary-Beth, Tilly, or Karen.
+- Destroys or abandons the wagon.
+- Alerts the law.
+- Lets Jimmy Brooks escape.
+- Dies.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- How Arthur wakes Uncle (kicking vs. shouting) depends on his proximity.
+- The girls' singing contains a genuine recording blooper that was kept in the game.
+- You can find a constipated man and a member of the Chelonian cult in the hotel rooms before finding Karen.
+- The fate of Jimmy Brooks provides a significant honor choice and a unique pen that cannot be used for item requests.
+- Dialogue from the encounter with Jimmy Brooks is remembered by Arthur in a later mission.
+- After the mission, several new, contextual conversations may become available with gang members at camp.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #8 - Polite Society, Valentine Style [Replay & Gold Medal]: https://www.youtube.com/watch?v=3n3VBmren-s
+---
+CHAPTER: 2
+MISSION_TITLE: Americans at Rest
+OBJECTIVES:
+1. Find Javier and Charles at the saloon in Valentine.
+2. After Bill arrives and starts a fight, join the brawl.
+3. Help Javier, Charles, and Bill with their opponents inside the saloon.
+4. After Tommy emerges, fight and defeat him in the street outside.
+5. Stop fighting Tommy when Thomas Downes intervenes.
+6. After the fight, speak with Dutch and Josiah Trelawny.
+GOLD_MEDAL_OBJECTIVES:
+- Save Javier within 15 seconds.
+- Defeat Tommy within 1 minute and 30 seconds.
+FAILURE_CONDITIONS:
+- Abandons the other gang members.
+- Allows any of the gang members to be killed.
+- Dies.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- The song "Maple Leaf Rag" by Scott Joplin can be heard playing in the saloon.
+- A glitch can cause Charles' AI to become aggressive if you enter the saloon through a window to start the mission.
+- Charles' uncharacteristic behavior during the fight (throwing a chair, grabbing a woman) was due to different voice actors (Dutch's and Bill's) performing the motion capture for him in those specific scenes.
+- Completing this mission changes some dialogue during a later interaction with Thomas Downes in Valentine.
+- After the mission, a Belgian Draft horse is hitched near the general store, which can be useful if your main horse isn't nearby.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #9 - Americans at Rest [Replay & Gold Medal]: http://www.youtube.com/watch?v=rnoAQFxI2GA
+---
+CHAPTER: 2
+MISSION_TITLE: Exit Pursued by a Bruised Ego
+OBJECTIVES:
+1. Speak with Hosea in camp to start the mission.
+2. Take the black Shire horse and ride with Hosea to the stables in Valentine.
+3. Sell the Shire horse and purchase a new horse.
+4. Ride with Hosea to the hunting spot in Grizzlies East.
+5. Set up camp, cook rabbit, and craft Potent Predator Bait.
+6. Follow Hosea to the bear's territory and track it.
+7. At the end of the trail, choose to either set the bait or split up to find the bear.
+8. After the bear appears, shoot it multiple times to make it flee.
+9. After Hosea leaves, choose to either return to camp with him or stay to hunt the Legendary Bear.
+GOLD_MEDAL_OBJECTIVES:
+- Track the bear within 1 minute 30 seconds.
+- Shoot the bear at least 6 times.
+- Complete within 12 minutes.
+FAILURE_CONDITIONS:
+- Assaults, kills, or abandons Hosea.
+- Alerts the law.
+- Abandons Valentine before selling the horse.
+- Scares away the rabbits during the hunting tutorial.
+- Kills or abandons the Shire horse or your new horse.
+- Dies.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- The mission title is a reference to a famous stage direction, "Exit, pursued by a bear," from Shakespeare's play The Winter's Tale.
+- Arthur mentions a previous horse of his named Boadicea, who was likely lost in the Blackwater Massacre.
+- This mission unlocks the grill, allowing you to season meat at any campsite you create.
+- Choosing to stay behind after Hosea leaves provides an easy opportunity to hunt the Legendary Bear.
+- A glitch allows you to get Hosea's Rolling Block Rifle early if you return to camp with him and then kill his horse.
+- This is the only mission in the game where the Palomino variant of the Morgan horse is available for purchase.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #10 - Exit Pursued by a Bruised Ego [Replay & Gold Medal]: http://www.youtube.com/watch?v=V-FlnFsFAeQ
+---
+CHAPTER: 2
+MISSION_TITLE: Money Lending and Other Sins I & II
+OBJECTIVES:
+Part I:
+1. Speak to Leopold Strauss in camp to begin the debt collection missions.
+
+Part II - Chick Matthews:
+1. Go to Guthrie Farm to find Chick Matthews.
+2. After he flees, chase him down on horseback and use your lasso to stop him.
+3. Retrieve the debt map from him.
+
+Part II - Mr. Wróbel:
+1. Go to Wróbel's farm at Painted Sky.
+2. Enter his home and, after he doesn't understand you, search his house to collect items of value equal to the debt.
+
+Part II - Lilly Millet:
+1. Find Lilly Millet and her boyfriend, Cooper, at Emerald Ranch.
+2. After Cooper refuses to pay, win the fistfight against him.
+3. Loot the debt money from Cooper's body.
+4. Stop the nearby witness from reporting the crime.
+
+After collecting at least one debt:
+1. Return to the camp's tithing box to donate the collected debt, which unlocks the Ledger.
+GOLD_MEDAL_OBJECTIVES:
+- There are no gold medal objectives provided for this mission.
+FAILURE_CONDITIONS:
+- There are no failure conditions provided for this mission.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- After returning one debt to camp, Strauss will ask you to collect from Thomas Downes, which starts "Money Lending and Other Sins III." The remaining debts from this list will still be part of Part II.
+- When you return to camp, Arthur's reaction to tasting the camp stew will change depending on the quality of the camp's food supply.
+- The witness during the Lilly Millet encounter may spawn with a rare, stealable Crown Bucket Hat. This may take several reloads.
+- The same witness can be robbed to progress the Bandit Challenge I.
+VIDEO_WALKTHROUGHS:
+- Red Dead Redemption 2 - Mission #14 - Money Lending and Other Sins I, II & III [Gold Medal]: http://www.youtube.com/watch?v=pPo5MX-DRZI
+---
+CHAPTER: 2
+MISSION_TITLE: Paying a Social Call
+OBJECTIVES:
+1. Approach Kieran at the tree in camp to start the mission.
+2. After Kieran reveals the O'Driscoll hideout, ride with him, Bill, and John to Six Point Cabin.
+3. On arrival, use stealth (bow or knife) to eliminate the first three O'Driscoll guards.
+4. After stealthily taking out one more O'Driscoll, win the ensuing gunfight.
+5. Enter the main cabin.
+6. After Kieran saves you from an ambusher, decide to let him join the gang.
+7. Search the cabin's chimney to find cash and a Double-barreled Shotgun.
+GOLD_MEDAL_OBJECTIVES:
+- Silently kill 4 O'Driscolls.
+- Get 12 headshots.
+- Complete with at least 80% accuracy.
+- Complete the mission without taking any health items.
+FAILURE_CONDITIONS:
+- There are no failure conditions provided for this mission.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- It is recommended to loot the bodies and the hideout before entering the cabin to avoid getting a WANTED level after the mission concludes.
+- During the ride to the cabin, you can choose to talk to either John (about Abigail) or Bill (about the bar fight).
+- The O'Driscoll character models in this mission are exclusive and not found in free roam.
+- After this mission, Kieran is accepted into the gang and will primarily be found tending to the horses at camp.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #11 - Paying a Social Call [Replay & Gold Medal]: http://www.youtube.com/watch?v=gafnlQtjv98
+---
+CHAPTER: 2
+MISSION_TITLE: Who is Not Without Sin
+OBJECTIVES:
+1. Find Reverend Swanson at the poker table at Flatneck Station.
+2. Optionally, play a few hands of poker.
+3. After Swanson disappears, search for him nearby.
+4. Find Swanson being beaten and win the fistfight to save him.
+5. Chase down the witness and convince him not to report the fight to the law.
+6. Run onto the railway bridge to save Swanson from the oncoming train.
+7. Place Swanson on your horse and ride back to the camp at Horseshoe Overlook.
+GOLD_MEDAL_OBJECTIVES:
+- Win 2 hands of Poker.
+- Return the Reverend to camp within 2 minutes and 5 seconds.
+FAILURE_CONDITIONS:
+- Assaults, kills, or abandons Reverend Swanson.
+- Allows Reverend Swanson to be killed.
+- Lets the witness escape.
+- Kills or abandons your horse.
+- Dies.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- The mission title is a reference to a Bible verse, John 8:7.
+- The odds of winning the poker game are heavily skewed in the player's favor, making it a good place to complete the Gambler 3 challenge.
+- If you ignore the man beating up Swanson, he will eventually kill him, failing the mission.
+- Killing the man beating Swanson does not result in an honor loss, but killing the shepherd witness will.
+- A glitch allows you to explore most of West Elizabeth without Pinkertons spawning if you have Swanson on your horse.
+- After the mission, Swanson may randomly gift Arthur a watch at camp as thanks.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #7 - Who is Not without Sin [Replay & Gold Medal]: http://www.youtube.com/watch?v=9i-0WaVVvJA
+---
+CHAPTER: 2
+MISSION_TITLE: The Spines of America
+OBJECTIVES:
+1. Meet Hosea at Emerald Ranch to start the mission.
+2. Ride with Hosea to the target house at Carmody Dell.
+3. Choose to approach the robbery during the daytime or at nighttime.
+4.  **If Daytime:** Follow Hosea's lead as he distracts the residents. Loot the house while they are busy, then retrieve the stagecoach from the barn.
+5.  **If Nighttime:** Sneak into the house while the residents are sleeping. Loot the house and optionally threaten the father for extra money. Meet Hosea outside with the stagecoach.
+6. Drive the stolen stagecoach back to Seamus at Emerald Ranch to complete the mission.
+GOLD_MEDAL_OBJECTIVES:
+- Loot everything from Carmody Dell.
+- Don’t get spotted.
+- Deliver the wagon to Emerald Ranch within 1 minute and 10 seconds.
+FAILURE_CONDITIONS:
+- Assaults, kills, or abandons Hosea.
+- Kills or abandons your horse or Hosea's horse.
+- Alerts the law or the residents prematurely.
+- Destroys or abandons the stagecoach.
+- Dies.
+TIPS:
+- For a gold medal, it is best to do this mission at night. You can leave through the front door, get into the stagecoach immediately, and drive quickly to Emerald Ranch, which saves a lot of time compared to the daytime approach.
+TRIVIA:
+- Choosing the nighttime approach allows you to find a hidden stash box under the bed containing $150 if you threaten the father.
+- You can complete the mission by only stealing the stagecoach and not robbing the house, but Hosea will express disappointment.
+- After this mission, all Fences will be temporarily unavailable, but you can still deliver stolen wagons to Seamus.
+- If you return to Carmody Dell after the mission, the owner will be hostile and may threaten you with a weapon.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #12 - The Spines of America [Replay & Gold Medal]: http://www.youtube.com/watch?v=0QLpN-nBxyo
+---
+CHAPTER: 2
+MISSION_TITLE: Pouring Forth Oil I
+OBJECTIVES:
+1. Find John Marston in camp to start the mission.
+2. Discuss the plan to rob a train by stopping it with a stolen oil wagon.
+FAILURE_CONDITIONS:
+- There are no failure conditions as this part is only a cutscene.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- This mission is only a cutscene and cannot be replayed from the menu.
+- If you follow John after the cutscene, he will ride to Valentine and wait in front of the Doctor's Office.
+- The subtitles incorrectly spell "Scarlett Meadows" as "Scarlet Meadows".
+VIDEO_WALKTHROUGHS:
+- RDR2 - Pouring Forth Oil I (No Commentary): https://www.youtube.com/watch?v=RbnNhj-1yac
+---
+CHAPTER: 2
+MISSION_TITLE: Pouring Forth Oil II
+OBJECTIVES:
+1.  **Primary Method:** Go to the Cornwall Kerosene & Tar factory.
+2.  Steal one of the oil wagons.
+3.  **Alternative Method:** Intercept and steal an oil wagon on the road from Valentine.
+4.  Deliver the stolen oil wagon to the drop-off point at Old Trail Rise.
+GOLD_MEDAL_OBJECTIVES:
+- Deliver the wagon to the drop off within 1 minute and 45 seconds.
+FAILURE_CONDITIONS:
+- Destroys the wagon or allows it to be destroyed.
+- Dies.
+TIPS:
+- To get the gold medal, stealing a wagon directly from the Cornwall factory is faster, despite being more dangerous. The wagon on the far right is the easiest to steal.
+- Be careful when stealing from the factory, as the guards' gunfire can cause the wagon to explode.
+TRIVIA:
+- This mission is optional. If you don't complete it, John will steal the wagon himself, and the mission will become unavailable.
+VIDEO_WALKTHROUGHS:
+- Red Dead Redemption 2 - Pouring Forth Oil II - Gold Medal - PC 4K60: https://www.youtube.com/watch?v=JlXvyeGFmFo
+---
+CHAPTER: 2
+MISSION_TITLE: A Fisher of Men
+OBJECTIVES:
+1. Speak to Abigail in camp to start the mission.
+2. Go to Jack and invite him to go fishing.
+3. Ride with Jack on your horse to the fishing spot at the Dakota River.
+4. Catch at least three fish.
+5. After being confronted by Pinkerton Agents Milton and Ross, listen to their conversation.
+6. Ride back to camp with Jack.
+7. After dropping Jack off with Abigail, go and tell Dutch about the Pinkertons.
+GOLD_MEDAL_OBJECTIVES:
+- After arriving at the river, catch a fish within 1 minute and 30 seconds.
+- Complete within 7 minutes and 20 seconds.
+FAILURE_CONDITIONS:
+- Alerts the law.
+- Fails to take Jack to the fishing area.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- The mission's title is a reference to a Bible verse (Matthew 4:19).
+- During the ride, the player cannot get into a serious horse crash, as the game will fail the mission to prevent Jack from being injured.
+- Agent Milton's line, "...you will die... savagely... all of you!" is remembered by Arthur in a later mission if his Honor is low.
+- This mission marks the first time Jack meets Agent Ross, foreshadowing the final events of the first Red Dead Redemption game, where Jack confronts Ross by a river.
+- Agent Milton also foreshadows his own death, remarking "Some of us sooner than others" when Arthur says everyone will die eventually.
+- If the mission is started at night, a different cutscene plays where Arthur agrees to take Jack fishing in the morning.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #21 - A Fisher of Men [Replay & Gold Medal]: http://www.youtube.com/watch?v=vku5vL2gspA
+---
+CHAPTER: 2
+MISSION_TITLE: We Loved Once and True I & II
+OBJECTIVES:
+1. Receive a letter from Mary via Susan Grimshaw in camp.
+2. Go to your tent to read the letter.
+3. Travel to Chadwick Farm near Valentine to meet Mary.
+4. After Mary asks for help, decide whether to help find her brother, Jamie. Choosing to help unlocks Part III of this mission.
+GOLD_MEDAL_OBJECTIVES:
+- There are no gold medal objectives provided for this mission.
+FAILURE_CONDITIONS:
+- There are no failure conditions provided for this mission.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- If "Money Lending and Other Sins III" has not been completed, an alternate cutscene with Leopold Strauss may play, forcing that mission to start.
+- This mission contains two different quotes from Mary that Arthur may remember in a later mission, depending on his Honor level.
+- If the player waits too long and doesn't make a choice to help Mary, the option will become unavailable, and Part III will be locked.
+- A minor detail in the cutscene changes depending on whether Arthur is wearing a hat.
+VIDEO_WALKTHROUGHS:
+- Red Dead Redemption 2 - Mission #15 - We Loved Once and True I, II & III [Gold Medal]: http://www.youtube.com/watch?v=HX3RK9k2dKY
+---
+CHAPTER: 2
+MISSION_TITLE: We Loved Once and True III
+OBJECTIVES:
+1. Find Jamie with the Chelonian cult in Cumberland Forest.
+2. Confront the Chelonian Master. You can respond positively to convince them peacefully, or negatively, which results in choking the leader.
+3. After Jamie flees on horseback, chase him.
+4. When the train passes and Jamie attempts suicide, use Dead Eye to shoot the revolver out of his hand.
+5. Take Jamie to the train station in Valentine to reunite him with Mary.
+GOLD_MEDAL_OBJECTIVES:
+- Peacefully convince the Chelonians to let you take Jamie.
+- Return Jamie to Mary within 2 minutes.
+FAILURE_CONDITIONS:
+- Assaults, kills, or abandons Jamie.
+- Allows Jamie to die or escape.
+- Attacks the Chelonians.
+- Alerts the law.
+- Kills or abandons their horse.
+- Dies.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- If you shoot at the Chelonians when Jamie flees, they will panic and jump off the cliff, failing the mission.
+- When disarming Jamie, be careful not to use a Sawed-off Shotgun, as its spread will likely kill him and fail the mission.
+- If you become wanted while riding into Valentine with Jamie, he will assist you in combat, and the wanted level will disappear once the final cutscene begins.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #15 - We Loved Once and True III [Replay & Gold Medal]: http://www.youtube.com/watch?v=unHMdA3y0Xk
+---
+CHAPTER: 2
+MISSION_TITLE: The First Shall Be Last
+OBJECTIVES:
+1. Meet Charles and Javier on the clifftop overlooking Blackwater.
+2. After Trelawny arrives with information, ride with him and Javier to the Upper Montana River.
+3. Follow the bounty hunters' boat along the cliff edge.
+4. After they dock, use your binoculars to watch them take Sean into the canyon.
+5. Sneak down to the riverbed and silently kill the two guards with Javier's help.
+6. Fight your way up the canyon with Javier and Charles.
+7. At the bounty hunter camp, eliminate the remaining enemies.
+8. Free Sean by cutting him down from the tree.
+GOLD_MEDAL_OBJECTIVES:
+- Silently kill the bounty hunters by the river with Javier.
+- Shoot the rope to free Sean.
+- Get 10 headshots.
+- Complete the mission without taking any health items.
+POSSIBLE_WEAPONS:
+- Bolt Action Rifle
+- Machete
+FAILURE_CONDITIONS:
+- There are no failure conditions provided for this mission.
+TIPS:
+- To get the Bolt Action Rifle early, you must kill the first bounty hunter on the left in the valley with one shot. If he is only wounded or alerted, he will not drop it.
+- To avoid getting a WANTED level after the mission, loot the bounty hunter camp and all the bodies *before* you free Sean.
+TRIVIA:
+- The mission title is a biblical reference and ironically foreshadows Sean's fate, as he is the last of the missing gang members to be rescued but the first of them to die.
+- This is the only story mission where Arthur can enter the Tall Trees or Great Plains regions without immediately getting a "Dead or Alive" wanted level.
+- The campfire where you meet Charles and Javier can be used to sleep, a unique opportunity in this region for Arthur.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #17 - The First Shall be Last [Replay & Gold Medal]: http://www.youtube.com/watch?v=1AbpfZjQArY
+---
+CHAPTER: 2
+MISSION_TITLE: Pouring Forth Oil III
+OBJECTIVES:
+1. Approach John in camp to start the mission.
+2. Discuss the final preparations for the train robbery and agree to bring Charles along.
+GOLD_MEDAL_OBJECTIVES:
+- There are no gold medal objectives provided for this mission.
+FAILURE_CONDITIONS:
+- There are no failure conditions provided for this mission.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- There is no trivia provided for this mission.
+VIDEO_WALKTHROUGHS:
+- Red Dead Redemption 2 - Mission #20 - Pouring Forth Oil III & IV [Gold Medal]: http://www.youtube.com/watch?v=T-l0ZIqn_Rw
+---
+CHAPTER: 2
+MISSION_TITLE: Pouring Forth Oil IV
+OBJECTIVES:
+1. Meet Sean at the stolen oil wagon's location.
+2. After John and Charles arrive at nightfall, drive the oil wagon to the railroad crossing.
+3. Park the wagon on the tracks to stop the train.
+4. After the train stops, board it and begin robbing the passengers with John.
+5. Go to the baggage car to help Sean.
+6. When guards appear, kill them to protect Sean.
+7. Loot the baggage car.
+8. After lawmen arrive, engage in a shootout.
+9. Escape the lawmen on horseback with the rest of the gang.
+GOLD_MEDAL_OBJECTIVES:
+- Kill all the train guards before Sean fires a shot.
+- Clear the baggage car of loot.
+- Escape the Law within 1 minute 30 seconds.
+- Get 10 kills in Dead Eye.
+- Complete the mission without taking any health items.
+FAILURE_CONDITIONS:
+- Assaults, kills or abandons John, Charles or Sean.
+- Allows any of the gang members to be killed.
+- Destroys or disables the oil wagon.
+- Kills any of the train passengers during the robbery.
+- Kills or abandons your horse.
+- Dies.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- The surprisingly fast arrival of lawmen, as noted by John, hints that there may be a rat in the gang.
+- This mission unlocks the ability to manually mark targets in Dead Eye.
+- The mission shares visual similarities with a train robbery scene from the 2007 film "The Assassination of Jesse James by the Coward Robert Ford."
+- A potential glitch can make the bodies of the guards block the chests in the baggage car, making it impossible to loot them and get a gold medal.
+- According to the game's second trailer, Lenny and Bill were originally intended to be part of this robbery.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #20 - Pouring Forth Oil IV [Replay & Gold Medal]: http://www.youtube.com/watch?v=8Ezpl3eLeJ8
+---
+CHAPTER: 2
+MISSION_TITLE: Money Lending and Other Sins III
+OBJECTIVES:
+1. After being sent by Leopold Strauss, go to the Downes Ranch.
+2. Confront Thomas Downes in his garden about the debt.
+3. After he resists, beat him until his wife intervenes.
+4. Leave the ranch and ride back to camp.
+5. Confront Strauss about the nature of the loan.
+GOLD_MEDAL_OBJECTIVES:
+- Complete within 2 minutes and 10 seconds.
+FAILURE_CONDITIONS:
+- There are no failure conditions provided for this mission.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- This is a major turning point in the story, as Arthur contracts tuberculosis from Thomas Downes during this encounter, which ultimately leads to his death.
+- It is impossible to avoid contracting the illness; any face coverings are removed in the cutscene.
+- Unlike the other debt collection missions, this one is mandatory to progress the main story.
+- Two different quotes from Thomas Downes during this mission are remembered by Arthur in a later mission, depending on his Honor level.
+- Vultures can be seen circling above Strauss at camp when Arthur returns, symbolizing his character as a scavenger.
+VIDEO_WALKTHROUGHS:
+- Red Dead Redemption 2 - Mission #14 - Money Lending and Other Sins I, II & III [Gold Medal]: https://www.youtube.com/watch?v=Q3tc0sKS3cA
+---
+CHAPTER: 2
+MISSION_TITLE: A Quiet Time
+OBJECTIVES:
+1. Speak to Dutch in camp, who asks you to take Lenny into Valentine for a drink.
+2. Ride to the saloon in Valentine with Lenny and have a few drinks.
+3. Deal with a disruptive patron named Jeb.
+4. After Arthur loses Lenny, search the saloon for him. This happens three times, with Arthur getting progressively more drunk.
+5. After finding Lenny for the third time (while hallucinating that everyone is Lenny), confront Jeb again outside.
+6. Choose to either do nothing, attempt to drown, or fully drown Jeb in the water trough.
+7. After the law arrives, either escape from Valentine or get arrested. The mission has six possible endings depending on your choices with Jeb and the law.
+GOLD_MEDAL_OBJECTIVES:
+- Try to make amends with an old rival (talk to Tommy at the table after losing Lenny the first time).
+- Catch Lenny in the act (enter the far upstairs room while searching for Lenny the third time).
+- Don't get arrested.
+FAILURE_CONDITIONS:
+- Assaults, kills, or abandons Lenny.
+- Gets knocked out by Lenny.
+- Leaves Valentine or the saloon area.
+- Alerts the law prematurely.
+- Kills or abandons their horse.
+- Dies.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- While drunk and searching for Lenny, the name prompt can be misspelled as "Lemmy," possibly a reference to Lemmy Kilmister of the band Motörhead.
+- This is one of the few missions in the game that displays full nudity, which occurs if Arthur walks into the hotel room with the couple.
+- The patron Jeb, who you confront, later reappears in the Epilogue mission "Gainful Employment" to harass Sadie.
+- After this mission, the Sheriff in Valentine may carry a Bolt Action Rifle, providing an opportunity to acquire the weapon early.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #13 - A Quiet Time [Replay & Gold Medal]: http://www.youtube.com/watch?v=XY-puUCGH1Y
+---
+CHAPTER: 2
+MISSION_TITLE: The Sheep and the Goats
+OBJECTIVES:
+1. Meet John Marston at the auction yard in Valentine.
+2. Follow him to the gun store and acquire the Rolling Block Rifle.
+3. Ride with John to the cliffs overlooking a sheep herd.
+4. Use the sniper rifle to shoot the ground and scare away the ranch hands.
+5. Ride down and help John herd the scattered sheep.
+6. Drive the herd all the way to the auction pen in Valentine.
+7. After selling the sheep, meet Dutch and John at the nearby saloon.
+8. When Leviticus Cornwall and his men arrive, get into position to start the shootout.
+9. Free John and Strauss by shooting their captors in Dead Eye.
+10. Fight your way through the streets of Valentine.
+11. Help move the wagon for cover to protect the injured Strauss.
+12. Place Strauss on the back of John's horse.
+13. Escape the ensuing lockdown in Valentine.
+GOLD_MEDAL_OBJECTIVES:
+- Herd all the sheep in to the pen in Valentine.
+- Get 25 headshots.
+- Complete with at least 70% accuracy.
+- Complete the mission without taking any health items.
+FAILURE_CONDITIONS:
+- Assaults, kills or abandons John, Dutch, or Strauss.
+- Allows John, Dutch, or Strauss to be killed.
+- Kills all of the sheep.
+- Abandons Valentine during the shootout.
+- Kills or abandons their horse.
+- Dies.
+TIPS:
+- When you go to buy the sniper rifle, it will be free even if you have enough money. If you don't have the money, Arthur will take it on credit and you will not be required to pay for it later.
+TRIVIA:
+- The mission's title is a reference to a parable from the Bible (Matthew 25:31-46).
+- If you have robbed the gunsmith prior to this mission, he will have unique, hostile dialogue.
+- After this mission, the town of Valentine will be on lockdown, meaning law presence will be extremely high.
+- If you take too long to shoot John and Strauss's captors, Dutch will yell at you before they are killed, failing the mission.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #23 - The Sheep and the Goats [Replay & Gold Medal]: http://www.youtube.com/watch?v=HpyYTB8Is-0
+---
+CHAPTER: 2
+MISSION_TITLE: Blessed are the Meek?
+OBJECTIVES:
+1. Go to the Strawberry jail and speak to Micah through his cell window.
+2.  **Primary Method:** Use the nearby steam donkey to attach a winch to the cell bars and pull them out.
+3.  **Alternative Methods:** Use dynamite on the cell bars, or kill the lawmen in the office, loot the keys, and unlock the cell.
+4. After freeing Micah, fight your way through the town of Strawberry.
+5. Follow Micah to a nearby house where he retrieves his prized revolvers.
+6. Continue the shootout and escape the town on horseback with Micah.
+7. After escaping, talk with Micah, who gives you an off-hand holster.
+GOLD_MEDAL_OBJECTIVES:
+- While escaping, kill all mounted lawmen within 55 seconds.
+- Get 15 headshots.
+- Complete with at least 70% accuracy.
+- Complete the mission without taking any health items.
+FAILURE_CONDITIONS:
+- Assaults, kills or abandons Micah.
+- Allows Micah to be killed.
+- Abandons Strawberry during the shootout.
+- Alerts the law prematurely.
+- Kills or abandons their horse.
+- Dies.
+TIPS:
+- You don't have to speak to the Sheriff to start the mission; you can go directly to Micah's cell window.
+- Instead of using the steam donkey for the jailbreak, you can use dynamite on the bars for a quicker, more explosive approach.
+TRIVIA:
+- The mission's title, "Blessed are the Meek," is a Bible verse (Matthew 5:5) and is ironic given Micah's violent and arrogant behavior throughout the mission.
+- Before this mission is completed, if you become wanted anywhere in the state of West Elizabeth, lawmen will become shoot-on-sight, and you will lose the ability to surrender.
+- Before Micah gets his own revolvers back, he uses a pair of Cattleman Revolvers, despite Arthur only giving him one.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #18 - Blessed are the Meek? [Replay & Gold Medal]: http://www.youtube.com/watch?v=Q6_mL6vk6wE
+---
+CHAPTER: 2
+MISSION_TITLE: An American Pastoral Scene
+OBJECTIVES:
+1. Meet Micah at his camp near Strawberry.
+2. Ride with him to a ridge overlooking a road to ambush a banking coach.
+3. Eliminate the coach's guards and driver.
+4. Hijack the coach, with Micah driving and Arthur defending with a new Lancaster Repeater.
+5. When O'Driscolls attack and block the road, survive the coach being blown up.
+6. After landing in the river, win the gunfight against the O'Driscolls.
+7. Meet Micah at the overturned coach and shoot the lock off the lockbox.
+8. Split the money and go your separate ways.
+GOLD_MEDAL_OBJECTIVES:
+- Headshot each of the mounted guards protecting the wagon.
+- Get 10 kills in Dead Eye.
+- Complete within 6 minutes.
+- Complete the mission without taking any health items.
+MISSABLE_ITEMS:
+- Liberty Hat
+FAILURE_CONDITIONS:
+- Assaults, kills, or abandons Micah.
+- Allows Micah to be killed.
+- Fails to stop the coach.
+- Destroys the coach before its scripted destruction.
+- Kills or abandons their horse.
+- Dies.
+TIPS:
+- To meet the 6-minute time limit for the gold medal, you must skip all cutscenes (on patch 1.0) and use Dead Eye efficiently, as the mission timer does not slow down with it.
+- After killing the initial guards, let the coach roll forward for a short time before hijacking it. Micah drives slowly, so minimizing his driving time is key, but don't wait too long or the coach will fall off a cliff.
+TRIVIA:
+- You can acquire a second Lancaster Repeater by looting one from a guard before Micah gives you one.
+- If you stray too far from Micah during the shootouts, you will be killed instantly with one shot.
+- If you don't shoot the lockbox on the coach, Micah will eventually get impatient and shoot it himself.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #22 - An American Pastoral Scene [Replay & Gold Medal]: http://www.youtube.com/watch?v=xKwRGfUkxcQ
+---
+CHAPTER: 2
+MISSION_TITLE: A Strange Kindness
+OBJECTIVES:
+1. Ride with Charles to the potential new camp spot at Dewberry Creek.
+2. Investigate the area and find the German family hiding under their wagon.
+3. After speaking with them, ride with Charles to find the kidnapped father.
+4. Follow the trail to a clearing by Flat Iron Lake.
+5. Defeat the bandits who are holding the father captive.
+6. Untie the father and take him back to his family at Dewberry Creek.
+7. After the cutscene, meet the rest of the gang at the new campsite.
+GOLD_MEDAL_OBJECTIVES:
+- Return the captive to his family within 1 minute and 40 seconds.
+- Get 5 headshots.
+- Complete with at least 80% accuracy.
+- Complete the mission without taking any health items.
+FAILURE_CONDITIONS:
+- Assaults, kills, or abandons Charles.
+- Allows Charles to be killed.
+- Assaults or kills the family.
+- Assaults, kills, or abandons the hostage.
+- Kills or abandons their horse.
+- Dies.
+TIPS:
+- There are no tips provided for this mission.
+TRIVIA:
+- This mission contains two lines of dialogue from Hosea and Dutch that Arthur will remember in later chapters if his Honor is low.
+- Arthur's comment to Charles about Dutch never hiding in a cave foreshadows the gang's final hideout.
+- If the player aims a weapon at the German woman, she will shoot at Arthur, failing the mission.
+- The mission description in-game incorrectly spells Dewberry as "Dewbury".
+- Completing this mission (and Chapter 2) unlocks the "To Greener Pastures" achievement/trophy.
+VIDEO_WALKTHROUGHS:
+- RDR2 PC - Mission #24 - A Strange Kindness [Replay & Gold Medal]: http://www.youtube.com/watch?v=onNctCFI_2k
+---
