@@ -2,7 +2,7 @@
 
 **A production-ready, multi-agent AI system that provides intelligent gameplay assistance for Red Dead Redemption 2 through advanced natural language processing and hybrid search architecture.**
 
-## 🚀 Technical Overview
+##  Technical Overview
 
 ### **Architecture Highlights**
 - **Multi-Agent Orchestration**: Implements CrewAI framework with specialized agent roles
@@ -18,7 +18,7 @@
 
 https://github.com/user-attachments/assets/0edbc4a1-2f49-4a9e-a258-d5f69014ca52
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/0edbc4a1-2f49-4a9e-a258-d5f69014ca52
          └─────────────────┘    └─────────────────┘
 ```
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ### **Backend Framework**
 - **FastAPI**: High-performance API with automatic OpenAPI documentation
@@ -61,21 +61,21 @@ https://github.com/user-attachments/assets/0edbc4a1-2f49-4a9e-a258-d5f69014ca52
 - **Security**: Distroless base images, non-root execution, resource limits
 - **Environment Management**: Python-dotenv for configuration management
 
-## ⚙️ Key Features
+##  Key Features
 
-### 🤖 **Intelligent Agent System**
+###  **Intelligent Agent System**
 - **Orchestrator Agent**: Query analysis and workflow coordination
 - **Research Agent**: Multi-source information retrieval and synthesis  
 - **Response Agent**: Content formatting and quality assurance
 - **Monitoring**: Real-time agent performance metrics via AgentOps
 
-### 📊 **Advanced Search Capabilities**
+###  **Advanced Search Capabilities**
 - **Semantic Search**: Vector similarity matching in ChromaDB knowledge base
 - **Query Classification**: Automatic determination of search strategy
 - **Web Search Integration**: Serper API for real-time information retrieval
 - **Result Fusion**: Intelligent combination of local and web search results
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### **Docker Deployment (Recommended)**
 ```bash
@@ -102,7 +102,7 @@ pip install -r requirements.txt
 python start_api.py
 ```
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 | Metric | Value | Description |
 |--------|-------|-------------|
@@ -146,7 +146,7 @@ Content-Type: application/json
 }
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 RDR2_Agent/
@@ -172,7 +172,7 @@ RDR2_Agent/
 └──  start_api.py            # Application entry point
 ```
 
-## ⚙️ Configuration
+##  Configuration
 
 ### Required API Keys
 1. **Gemini API Key**: Get from [Google AI Studio](https://makersuite.google.com/app/apikey)
@@ -191,7 +191,7 @@ API_HOST=0.0.0.0                   # API host
 API_PORT=8001                      # API port
 ```
 
-## 🐳 Docker Deployment
+##  Docker Deployment
 
 The project includes a secure, production-ready Docker setup:
 
@@ -212,7 +212,7 @@ docker-compose -f docker-compose.secure.yml logs -f
 docker-compose -f docker-compose.secure.yml down
 ```
 
-## 🔧 Development
+##  Development
 
 ### Adding New Game Data
 1. Add text files to the `info/` directory
@@ -222,6 +222,7 @@ docker-compose -f docker-compose.secure.yml down
 - Add new endpoints in `api/`
 - Create custom agents in `agents/`
 - Implement new search tools in `search/`
+
 
 
 
