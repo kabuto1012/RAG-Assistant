@@ -16,6 +16,8 @@
 2. **Fallback**: Serper web search API for real-time information when local knowledge insufficient
 3. **Intelligent Routing**: Query classification determines search path optimization
 
+https://github.com/user-attachments/assets/0edbc4a1-2f49-4a9e-a258-d5f69014ca52
+
 ## 🏗️ System Architecture
 
 ```
@@ -249,3 +251,4 @@ This project is open source and available under the MIT License.
 - **Explorers**: Discover hidden secrets and easter eggs
 
 - **Strategists**: Optimize money-making and character progression
+
