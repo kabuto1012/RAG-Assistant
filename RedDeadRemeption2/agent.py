@@ -31,13 +31,21 @@ _patch_chroma_telemetry()
 # ==============================================================================
 # ==============================================================================
 import os
+from dotenv import load_dotenv
 import google.generativeai as genai
 from chromadb.config import Settings
 import chromadb
 from chromadb.utils import embedding_functions
-#Configuration
 
-genai.configure(api_key="Your API key")
+# Load environment variables
+load_dotenv()
+
+#Configuration
+api_key = os.getenv("GEMINI_API_KEY")
+if not api_key:
+    raise ValueError("GEMINI_API_KEY environment variable is required. Please set it in your .env file.")
+
+genai.configure(api_key=api_key)
 
 #Loading the knowledge base
 
