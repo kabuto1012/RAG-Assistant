@@ -1,4 +1,4 @@
-# RDR2 Intelligent Game Assistant API
+# Intelligent Game Assistant API
 
 **A production-ready, multi-agent AI system that provides intelligent gameplay assistance for Red Dead Redemption 2 through advanced natural language processing and hybrid search architecture.**
 
@@ -75,14 +75,6 @@ https://github.com/user-attachments/assets/0edbc4a1-2f49-4a9e-a258-d5f69014ca52
 - **Web Search Integration**: Serper API for real-time information retrieval
 - **Result Fusion**: Intelligent combination of local and web search results
 
-### 🎮 **Comprehensive Game Knowledge**
-- **Weapons & Equipment**: Complete database with statistics and locations
-- **Horse Breeds**: Detailed information with acquisition strategies
-- **Mission Guides**: Step-by-step walkthroughs and optimization tips
-- **Collectibles**: Interactive maps and location data
-- **Economy System**: Money-making strategies and market analysis
-- **Hidden Content**: Easter eggs, secrets, and achievement guides
-
 ## 🚀 Quick Start
 
 ### **Docker Deployment (Recommended)**
@@ -158,26 +150,26 @@ Content-Type: application/json
 
 ```
 RDR2_Agent/
-├── 🚀 api/                     # FastAPI REST endpoints & models
+├──  api/                     # FastAPI REST endpoints & models
 │   ├── main.py                 # Primary API application
 │   ├── models.py               # Pydantic data models
 │   └── config.py               # API configuration
-├── 🤖 agents/                  # CrewAI agent implementations
+├──  agents/                  # CrewAI agent implementations
 │   └── agent_implementations.py # Specialized AI agents
-├── 🧠 coordinator/             # Multi-agent orchestration
+├──  coordinator/             # Multi-agent orchestration
 │   └── main_coordinator.py     # Workflow coordination logic
-├── 📊 knowledge/               # ChromaDB vector database
+├──  knowledge/               # ChromaDB vector database
 │   └── knowledge_base.py       # Vector store operations
-├── 🔍 search/                  # Hybrid search system
+├──  search/                  # Hybrid search system
 │   └── search_tools.py         # Local + web search integration
-├── 🗃️ info/                    # Curated game knowledge base
-├── ⚙️ config/                  # Configuration management
+├──  info/                    # Curated game knowledge base
+├──  config/                  # Configuration management
 │   └── configuration_manager.py # Environment & settings
-├── 🔧 utils/                   # Utility functions
+├──  utils/                   # Utility functions
 │   └── response_cleaner.py     # Response processing
-├── 🐳 docker-compose.secure.yml # Production deployment
-├── 📋 requirements.txt         # Python dependencies
-└── 🚀 start_api.py            # Application entry point
+├──  docker-compose.secure.yml # Production deployment
+├──  requirements.txt         # Python dependencies
+└──  start_api.py            # Application entry point
 ```
 
 ## ⚙️ Configuration
@@ -231,24 +223,5 @@ docker-compose -f docker-compose.secure.yml down
 - Create custom agents in `agents/`
 - Implement new search tools in `search/`
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test with Docker deployment
-5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🎯 Use Cases
-
-- **New Players**: Get guidance on game mechanics and early strategies
-- **Completionists**: Find all collectibles and achieve 100% completion
-- **Hunters**: Learn optimal hunting strategies and animal locations
-- **Explorers**: Discover hidden secrets and easter eggs
-
-- **Strategists**: Optimize money-making and character progression
 
