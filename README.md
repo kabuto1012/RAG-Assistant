@@ -108,7 +108,7 @@ pip install -r requirements.txt
 python start_api.py
 ```
 
-## � Performance Metrics
+## 📊 Performance Metrics
 
 | Metric | Value | Description |
 |--------|-------|-------------|
@@ -124,7 +124,7 @@ The ~50 second response time is a deliberate trade-off for answer quality. This 
 
 **Data Synthesis**: The system gathers and synthesizes information from both local database and web search to create a single, comprehensive answer.
 
-## � API Documentation
+## API Documentation
 
 ### **Interactive Documentation**
 - **Swagger UI**: `http://localhost:8001/docs`
@@ -229,12 +229,6 @@ docker-compose -f docker-compose.secure.yml down
 - Create custom agents in `agents/`
 - Implement new search tools in `search/`
 
-## 📊 Performance
-
-- **Response Time**: ~30-60 seconds for complex queries
-- **Concurrency**: Supports multiple simultaneous requests
-- **Memory Usage**: ~1-2GB RAM recommended
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -253,4 +247,5 @@ This project is open source and available under the MIT License.
 - **Completionists**: Find all collectibles and achieve 100% completion
 - **Hunters**: Learn optimal hunting strategies and animal locations
 - **Explorers**: Discover hidden secrets and easter eggs
+
 - **Strategists**: Optimize money-making and character progression
