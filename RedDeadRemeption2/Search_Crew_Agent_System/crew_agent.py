@@ -1,13 +1,17 @@
 from crewai import Agent, Task, Crew, LLM, Process
 from crewai.tools import tool
 import os
+from dotenv import load_dotenv
 from search_tool import search_top_results
 from scraper_tool import scrape_page
 # from agent import collection, find_best_context, generate_answer
 
+# Load environment variables
+load_dotenv()
 
+# Check for required API key
 if "GEMINI_API_KEY" not in os.environ:
-    os.environ["GEMINI_API_KEY"] = "YOUR_GEMINI_API_KEY_HERE"
+    raise ValueError("GEMINI_API_KEY environment variable is required. Please set it in your .env file.")
 
 gemini_llm = LLM(
     model='gemini/gemini-2.5-pro',
@@ -83,7 +87,7 @@ rdr2_crew = Crew(
             embedder={
         "provider": "google",
         "config": {
-            "api_key": "YOUR GOOGLE_API_KEY_HERE",
+            "api_key": os.environ.get("GOOGLE_API_KEY", os.environ["GEMINI_API_KEY"]),
             "model": "text-embedding-004"
         }
     },
