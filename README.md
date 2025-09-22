@@ -1,6 +1,6 @@
 # Intelligent Assistant API
 
-**A production-ready, multi-agent AI system that provides intelligent gameplay assistance for Red Dead Redemption 2 through advanced natural language processing and hybrid search architecture.**
+**A production-ready, multi-agent AI system that provides intelligent assistance through advanced natural language processing and hybrid search architecture.**
 
 ##  Technical Overview
 
@@ -222,6 +222,7 @@ docker-compose -f docker-compose.secure.yml down
 - Add new endpoints in `api/`
 - Create custom agents in `agents/`
 - Implement new search tools in `search/`
+
 
 
 
