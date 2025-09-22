@@ -1,11 +1,22 @@
 import requests
 import json
+import os
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 def search_top_results(query, top_n=1, exclude_domains=["reddit.com", "quora.com", "youtube.com"]):
     url = "https://google.serper.dev/search"
     payload = json.dumps({"q": query})
+    
+    api_key = os.getenv("SERPER_API_KEY")
+    if not api_key:
+        print("[Search] Warning: SERPER_API_KEY not found. Web search functionality will not work.")
+        return []
+    
     headers = {
-        'X-API-KEY': 'YOUR_API_KEY_HERE',
+        'X-API-KEY': api_key,
         'Content-Type': 'application/json'
     }
 

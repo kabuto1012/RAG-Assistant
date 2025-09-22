@@ -1,11 +1,22 @@
 import requests
 import json
+import os
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 def scrape_page(target_url):
     url = "https://scrape.serper.dev"
     payload = json.dumps({"url": target_url})
+    
+    api_key = os.getenv("SERPER_API_KEY")
+    if not api_key:
+        print("[Scraper] Warning: SERPER_API_KEY not found. Web scraping functionality will not work.")
+        return ""
+    
     headers = {
-        'X-API-KEY': 'YOUR_API_KEY_HERE',
+        'X-API-KEY': api_key,
         'Content-Type': 'application/json'
     }
 

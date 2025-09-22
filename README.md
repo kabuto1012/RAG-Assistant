@@ -22,6 +22,28 @@ A Red Dead Redemption 2 assistant powered by RAG (Retrieval-Augmented Generation
 
 ### Installation
 
+#### Quick Setup (Recommended)
+
+1. Clone the repository:
+```bash
+git clone https://github.com/kabuto1012/RDR2-RAG-Assistant.git
+cd RDR2-RAG-Assistant
+```
+
+2. Run the setup script:
+```bash
+chmod +x setup.sh
+./setup.sh
+```
+
+3. Edit `.env` file and add your API keys:
+```
+GEMINI_API_KEY=your_actual_gemini_api_key_here
+GOOGLE_API_KEY=your_google_api_key_here  # Optional, can use same as GEMINI_API_KEY
+```
+
+#### Manual Setup
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/kabuto1012/RDR2-RAG-Assistant.git
@@ -38,10 +60,13 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-4. Edit `.env` file and add your API keys:
-```
-GEMINI_API_KEY=your_actual_gemini_api_key_here
-GOOGLE_API_KEY=your_google_api_key_here  # Optional, can use same as GEMINI_API_KEY
+4. Edit `.env` file and add your API keys
+
+#### Test Your Setup
+
+Run the test script to verify everything is working:
+```bash
+python3 test_setup.py
 ```
 
 ### Getting API Keys
