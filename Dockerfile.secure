@@ -1,0 +1,48 @@
+# Ultra-secure Docker configuration for RDR2 Agent API
+# Uses Google's distroless images for minimal attack surface
+
+FROM python:3.12.12-slim AS builder
+
+# Security: Install security updates
+RUN apt-get update && apt-get upgrade -y \
+    && apt-get install -y \
+    gcc \
+    g++ \
+    curl \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/* \
+    && rm -rf /tmp/* \
+    && rm -rf /var/tmp/*
+
+# Create virtual environment
+RUN python -m venv /opt/venv
+ENV PATH="/opt/venv/bin:$PATH"
+
+# Copy requirements and install Python dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir --upgrade pip \
+    && pip install --no-cache-dir -r requirements.txt
+
+# Production stage - Use Google's distroless Python image for security
+FROM gcr.io/distroless/python3-debian11
+
+# Copy virtual environment from builder
+COPY --from=builder /opt/venv /opt/venv
+
+# Set environment variables
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+ENV PATH="/opt/venv/bin:$PATH"
+
+# Create app directory and copy application
+WORKDIR /app
+COPY . .
+
+# Create necessary directories
+USER 1001:1001
+
+# Expose port
+EXPOSE 8001
+
+# Run the application
+ENTRYPOINT ["/opt/venv/bin/python", "-m", "uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8001"]

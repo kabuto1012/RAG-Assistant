@@ -1,0 +1,97 @@
+version: '3.8'
+
+services:
+  rdr2-agent-api:
+    build:
+      context: .
+      dockerfile: Dockerfile.secure
+    ports:
+      - "8001:8001"  # Match the API port from start_api.py
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+    env_file:
+      - .env
+    volumes:
+      # Remove chroma_db mount - let container create it internally
+      # - ./chroma_db:/app/chroma_db:ro  # Removed - auto-generated
+      - ./info:/app/info:ro              # Keep info files (source data)
+      - chroma_data:/app/chroma_db       # Use Docker volume instead
+      - api_logs:/app/logs
+    restart: unless-stopped
+    
+    # Security hardening
+    security_opt:
+      - no-new-privileges:true
+    read_only: true
+    tmpfs:
+      - /tmp:noexec,nosuid,size=100m
+    cap_drop:
+      - ALL
+    
+    # Resource limits
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+          cpus: '1.0'
+        reservations:
+          memory: 512M
+          cpus: '0.5'
+    
+    healthcheck:
+      test: ["CMD-SHELL", "python -c 'import requests; requests.get(\"http://localhost:8001/health\", timeout=5)'"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    
+    networks:
+      - rdr2-secure-network
+
+  # Optional: Nginx reverse proxy with security headers
+  nginx:
+    image: nginx:1.25-alpine
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./ssl:/etc/nginx/ssl:ro
+      - nginx_logs:/var/log/nginx
+    depends_on:
+      - rdr2-agent-api
+    restart: unless-stopped
+    
+    # Security hardening
+    security_opt:
+      - no-new-privileges:true
+    read_only: true
+    tmpfs:
+      - /var/cache/nginx:noexec,nosuid,size=100m
+      - /tmp:noexec,nosuid,size=50m
+    cap_drop:
+      - ALL
+    cap_add:
+      - CHOWN
+      - DAC_OVERRIDE
+      - SETGID
+      - SETUID
+      - NET_BIND_SERVICE
+    
+    networks:
+      - rdr2-secure-network
+
+volumes:
+  chroma_data:    # New volume for auto-generated database
+    driver: local
+  api_logs:
+    driver: local
+  nginx_logs:
+    driver: local
+
+networks:
+  rdr2-secure-network:
+    driver: bridge
+    driver_opts:
+      com.docker.network.bridge.name: rdr2-secure

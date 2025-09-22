@@ -1,0 +1,68 @@
+TOPIC: General Tips & How-To's
+
+---
+TIP_TITLE: How to Unlock Fast Travel
+DETAILS: To unlock the ability to Fast Travel from your camp, you must first use the camp Ledger (available after the "Money Lending and Other Sins" mission in Chapter 2). In the Ledger, purchase the "First Things First" upgrade (Dutch's Lodging), followed by the "Next in Line" upgrade (Arthur's Lodging). This adds a map to the back of Arthur's wagon/tent that you can use to travel to any previously discovered town or major location.
+---
+TIP_TITLE: How to Get Perfect Pelts
+DETAILS: Getting Perfect Pelts is essential for crafting. First, use your binoculars to spot an animal and "Study" it. Once studied, press the "Show Info" button. The info box will tell you which weapon is needed for a "clean kill" (e.g., Varmint Rifle for rabbits, Bow with regular arrows for deer, Rifle for bears). You must use the correct weapon and get a one-shot kill to a fatal area (usually the head or heart) on a 3-star "Pristine" animal to get a Perfect Pelt.
+---
+TIP_TITLE: How to Upgrade Your Satchels
+DETAILS: To carry more items, you need to upgrade your satchel. Go to Pearson at the camp's butcher station. To unlock the ability for him to craft these upgrades, you must first purchase the Leather Working Tools from the camp Ledger. Once you have the tools, you can bring Pearson the specific perfect pelts and hides he requires for each of the seven satchel upgrades. Crafting all of them unlocks the "Legend of the East" satchel, which has a massive carrying capacity.
+---
+TIP_TITLE: Understanding Health, Stamina, and Dead Eye
+DETAILS: Your Health, Stamina, and Dead Eye have two parts: the Bar and the Core. The outer Bar is the energy you use for actions (taking damage, sprinting, using Dead Eye). The inner Core is like the long-term reserve; if the core is full, the bar will regenerate faster. Eating food, drinking tonics, and sleeping will refill your Cores.
+---
+TIP_TITLE: How to Level Up Dead Eye
+DETAILS: Dead Eye levels up automatically as you progress through specific story missions. You will gradually unlock new abilities: Level 1 (auto-tagging), Level 2 (manual tagging), Level 3 (staying in Dead Eye after firing), Level 4 (seeing fatal areas like hearts and lungs), and Level 5 (seeing critical areas like brains and stomachs).
+---
+TIP_TITLE: The Honor System Explained
+DETAILS: Your Honor level changes based on your actions. Helping people, completing chores, and being a good citizen raises your honor. Killing innocent people, stealing, and being antagonistic lowers it. High honor gives you discounts in all stores and unlocks new outfits. Low honor results in more money and valuable items looted from dead bodies. Your honor level also affects some dialogue and cutscenes.
+---
+TIP_TITLE: Weapon Maintenance
+DETAILS: Your weapons will get dirty over time from use and environmental conditions (like walking through water or mud). A dirty weapon has reduced stats (lower damage, slower reload). You must clean your weapons regularly using Gun Oil, which can be purchased from Gunsmiths or found while looting. This will restore the weapon to its peak performance.
+---
+TIP_TITLE: Paying Off Your Bounty
+DETAILS: If you commit a crime and are seen by a witness who reports you to the law, a bounty will be placed on your head in that state. With an active bounty, lawmen and bounty hunters will periodically attack you in that region. To clear your name, you must go to any Post Office and pay off the bounty yourself.
+---
+TIP_TITLE: How to Bond With Your Horse
+DETAILS: You can increase your bond with your horse by feeding, patting, and brushing it. As your bond level increases (from 1 to 4), your horse's Health and Stamina will increase. Higher bond levels also unlock new maneuvers, like rearing, drifting, and piaffe. A fully bonded horse is more brave and will be less likely to buck you off near predators.
+---
+TIP_TITLE: Using Horse Reviver
+DETAILS: If your horse is critically injured, it will fall to the ground and a timer will appear. You must get to your horse before the timer runs out and use a Horse Reviver tonic to save it. If you fail to do so, your horse will die permanently. It's essential to always carry Horse Reviver, which can be bought at General Stores.
+---
+TIP_TITLE: Storing Outfits and Hats on Your Horse
+DETAILS: You can store up to five custom outfits and three collected hats on your horse. Access your horse's cargo to switch between them at any time. This is useful for changing into appropriate clothing for different weather conditions (hot or cold) to avoid negative effects on your Health Core.
+---
+TIP_TITLE: How to Use Tonics Effectively
+DETAILS: Tonics provide a major advantage in combat. There are three main types: Restore (refills the bar), Fortify (strengthens the bar so it drains slower, often turning it yellow), and Potent (a stronger version). Using a potent bitters tonic, for example, will fortify your Health bar, allowing you to take much more damage before dying.
+---
+TIP_TITLE: Treasure Maps and Gold Bars
+DETAILS: Treasure maps are one of the best ways to make a lot of money. Following the clues on a map will lead you to a hidden treasure, which is usually one or more Gold Bars. Gold Bars are not cash; you must sell them to a Fence to get their full value, which is typically $500 per bar.
+---
+TIP_TITLE: What is a Fence?
+DETAILS: A Fence is a special type of merchant who will buy illegal goods. If you have stolen items (like jewelry, belt buckles, or pocket watches from looting) or a stolen wagon, you cannot sell them to a regular store. You must take them to a Fence. Fences are also the only place you can craft powerful Trinkets and Talismans from Legendary Animal parts.
+---
+TIP_TITLE: Finding Unique Hats
+DETAILS: Many unique hats (like the Viking Helmet, Pirate Hat, or Civil War Hardee Hat) can be found in special locations around the world. When you pick up a hat that is glowing, it will be permanently added to your wardrobe. You can then access it from your horse's cargo or at a wardrobe.
+---
+TIP_TITLE: Best Ways to Increase Your Honor
+DETAILS: Consistently raising your Honor level unlocks store discounts and new outfits. Here are some of the most effective methods:
+- **Greet Everyone:** This is the easiest and most repeatable method. Walk through a busy town like Saint Denis and greet every person you pass. Each friendly greeting provides a small boost to your Honor.
+- **Catch and Release Fishing:** Every time you catch a fish, you have the option to throw it back. Doing so will grant you a small amount of honor.
+- **Help Strangers in Random Encounters:** As you travel, you will see white dots appear on your minimap, indicating a random encounter. Helping these people (giving them a ride, saving them from bandits, giving medicine) often provides a significant honor boost.
+- **Do Camp Chores:** Each morning at the gang camp, you can perform chores like chopping wood, carrying hay bales, or refilling water buckets. Each chore gives a small amount of honor and also refills your Dead Eye core.
+- **Donate to the Camp Tithing Box:** Donating money or valuable items to the tithing box by Dutch's tent will increase your honor.
+- **Make Honorable Story Choices:** During missions, you will often have the choice to help someone, show mercy, or refuse payment. These choices usually provide the largest honor gains in the game.
+---
+TIP_TITLE: Understanding Mini-Map Icons
+DETAILS:  
+• White dots = Neutral NPCs  
+• Red dots = Hostile enemies  
+• Yellow diamonds = Stranger missions  
+• Green icons = Camp or companion activities  
+Press R3 to zoom in/out and hold L1 + R1 to rotate the map for a better overview.
+---
+TIP_TITLE: Quality of Life – Camp Provisions
+DETAILS: Donating food, medicine, and cash to the camp’s donation box boosts gang morale. High morale speeds up camp chores, unlocks new side-missions, and may yield free items like Legendary Bison Steak from Pearson.
+---

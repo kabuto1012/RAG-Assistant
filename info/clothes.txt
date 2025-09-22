@@ -1,0 +1,72 @@
+TOPIC: Outfit Recommendations
+SUBTOPIC: Best Temperature Loadouts
+CONTENT: The top outfits in Red Dead Redemption 2 for each climate are:
+- **Cold:** The Winter Gunslinger – automatically granted in Chapter 1 missions; provides maximum warmth for mountain and snowy regions.  
+- **Average:** The Gunslinger (Default) – Arthur’s starting outfit; balanced insulation for most Heartlands and New Hanover conditions.  
+- **Hot:** Hot Weather Outfit – customizable at any wardrobe by removing jacket, gloves, and opening shirt collar; essential for Lemoyne and other warm locales.
+
+Hono­rable Mentions:
+- **The Valentine / The Cumberland** – Pre-made “Average” temperature outfits purchasable from the Valentine General Store; stylish and reliable.  
+- **Legend of the East Set** – Crafted via satchel upgrades (requires “Legend of the East” satchel); provides minor core drain reduction in all climates.  
+- **Unique Hats & Masks** – Store up to three glowing collectibles (e.g., Viking Helmet, Cat Skull Mask) on your horse for both utility and flair.
+---
+TOPIC: Clothing
+CATEGORY: General Information
+CONTENT: Clothing in Red Dead Redemption 2 is important for dealing with weather and temperature. Every outfit is rated for Hot, Average, or Cold climates. Wearing the wrong clothes will cause your Health Core to drain faster. You can create and save custom outfits at a wardrobe and store up to five of them on your horse to change anywhere. Some unique clothing items, like special hats and masks, cannot be bought and must be found in the world.
+---
+TOPIC: Clothing
+SUBTOPIC: How Clothing Works – Weather and Temperature
+CONTENT: Clothing in Red Dead Redemption 2 is crucial for dealing with the weather. Every outfit is rated for "Hot," "Average," or "Cold" temperatures. If you wear an outfit that is not suitable for the current climate (e.g., a winter coat in the heat), your Health Core will drain much faster as a penalty. You can check an outfit's temperature rating in your wardrobe or from your horse's cargo.
+---
+TOPIC: Clothing
+SUBTOPIC: How Clothing Works – Storing Outfits
+CONTENT: You can create and save custom outfits at any wardrobe (in your tent at camp, or in a rented hotel room). You can then store up to five of these outfits on your horse. This allows you to switch clothes anywhere in the world to adapt to changing weather conditions. It is essential to have at least one outfit for each temperature type stored on your horse.
+---
+TOPIC: Clothing
+SUBTOPIC: Recommended Outfits – Early Game
+CONTENT: In the early game (Chapters 1 and 2), you have access to a few key outfits that cover all your needs. Instead of buying full outfits, it's often better to buy individual clothing items from the General Store in Valentine to create your own custom outfits.
+---
+TOPIC: Clothing Outfit
+NAME: The Winter Gunslinger
+ACQUISITION: Automatically granted during Chapter 1 mission.
+NOTES: Essential cold-weather gear; always keep it stored on your horse for mountain travel.
+---
+TOPIC: Clothing Outfit
+NAME: The Gunslinger (Default)
+ACQUISITION: Arthur’s starting outfit.
+NOTES: Solid “Average” temperature outfit, suitable for most Heartlands and New Hanover conditions.
+---
+TOPIC: Clothing Outfit
+NAME: Hot Weather Outfit
+ACQUISITION: Player-customized at any wardrobe.
+NOTES: Best made by removing jacket, gloves, and opening shirt collar—crucial for Lemoyne and later hot regions.
+---
+TOPIC: Clothing Outfit
+NAME: The Valentine / The Cumberland
+ACQUISITION: Purchase from the General Store in Valentine.
+NOTES: Ready-made “Average” temperature outfits with unique style.
+---
+TOPIC: Clothing
+SUBTOPIC: Unique Clothing Items
+CONTENT: Many unique clothing items cannot be bought, only found in specific locations. When you pick up a glowing hat or mask, it is permanently added to your wardrobe.
+---
+TOPIC: Clothing Unique Item
+ITEM_TYPE: Hat
+NAME: Viking Helmet
+ACQUISITION: Found in the Old Tomb in Roanoke Ridge, north of Annesburg.
+---
+TOPIC: Clothing Unique Item
+ITEM_TYPE: Hat
+NAME: Tricorn Hat (Pirate Hat)
+ACQUISITION: Inside a wrecked boat on the largest island of Flat Iron Lake, west of Rhodes.
+---
+TOPIC: Clothing Unique Item
+ITEM_TYPE: Mask
+NAME: Ram Skull Mask
+ACQUISITION: On a post at the ritualistic site at Rathskeller Fork in New Austin.
+---
+TOPIC: Clothing Unique Item
+ITEM_TYPE: Mask
+NAME: Cat Skull Mask
+ACQUISITION: Inside a sunken house in the swamp area of Lagras.
+---
