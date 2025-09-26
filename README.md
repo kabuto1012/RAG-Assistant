@@ -40,6 +40,21 @@ https://github.com/user-attachments/assets/0edbc4a1-2f49-4a9e-a258-d5f69014ca52
          │  (Local KB)     │    │  (Fallback)     │
          └─────────────────┘    └─────────────────┘
 ```
+##  Performance Metrics
+
+| Metric | Value | Description |
+|--------|-------|-------------|
+| **Average Response Time** | ~50 seconds | **No caching** - Full multi-agent processing |
+| **Search Accuracy** | 95%+ | Semantic similarity matching |
+| **API Uptime** | 99.9% | Production Docker deployment |
+| **Concurrent Users** | 10+ | Simultaneous request handling |
+| **Memory Usage** | 1.5-2GB | Optimized resource consumption |
+
+The ~50 second response time is a deliberate trade-off for answer quality. This is due to two main factors:
+
+**Multi-Agent Workflow**: Each query is processed sequentially by multiple AI agents, requiring several time-intensive LLM reasoning cycles.
+
+**Data Synthesis**: The system gathers and synthesizes information from both local database and web search to create a single, comprehensive answer.
 
 ##  Technical Stack
 
@@ -101,22 +116,6 @@ pip install -r requirements.txt
 # Start development server
 python start_api.py
 ```
-
-##  Performance Metrics
-
-| Metric | Value | Description |
-|--------|-------|-------------|
-| **Average Response Time** | ~50 seconds | **No caching** - Full multi-agent processing |
-| **Search Accuracy** | 95%+ | Semantic similarity matching |
-| **API Uptime** | 99.9% | Production Docker deployment |
-| **Concurrent Users** | 10+ | Simultaneous request handling |
-| **Memory Usage** | 1.5-2GB | Optimized resource consumption |
-
-The ~50 second response time is a deliberate trade-off for answer quality. This is due to two main factors:
-
-**Multi-Agent Workflow**: Each query is processed sequentially by multiple AI agents, requiring several time-intensive LLM reasoning cycles.
-
-**Data Synthesis**: The system gathers and synthesizes information from both local database and web search to create a single, comprehensive answer.
 
 ## API Documentation
 
@@ -222,6 +221,7 @@ docker-compose -f docker-compose.secure.yml down
 - Add new endpoints in `api/`
 - Create custom agents in `agents/`
 - Implement new search tools in `search/`
+
 
 
 
